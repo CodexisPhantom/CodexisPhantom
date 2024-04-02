@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Initial Roleplay | WL](https://discord.gg/BB4b6E3STf)
 
-- 👨‍💻 All of my projects are available at [https://codexis.dev/](https://codexis.dev/)
+- 👨‍💻 Check my website (WIP) [https://codexis.dev/](https://codexis.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
