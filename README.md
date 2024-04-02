@@ -12,5 +12,5 @@
 <a href="https://discord.gg/codexis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="codexis" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support me:</h3>
 <p><a href="https://ko-fi.com/codexis"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codexis" /></a></p><br><br>
