@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Codexis</h1>
 <h3 align="center">A student ingenieer that focus on learning always more</h3>
 
-- 🔭 I’m currently working on [Initial Roleplay | WL](https://discord.gg/BB4b6E3STf)
+- 🔭 I’m currently working on [Starling City | Semi Whitelist](https://discord.gg/VkURFbj5JX)
 
 - 👨‍💻 Check my website (WIP) [https://codexis.dev/](https://codexis.dev/)
 
